@@ -73,7 +73,6 @@ protobuf==5.27.3
 psutil==5.9.1
 pure-eval==0.2.2
 pyarrow==17.0.0
-PyAudio @ file:///D:/dsa%20gfg/PyAudio-0.2.11-cp310-cp310-win_amd64.whl
 pycparser==2.21
 pydeck==0.9.1
 Pygments==2.18.0
